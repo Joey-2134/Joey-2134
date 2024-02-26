@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Joey
-![](https://i.ibb.co/2SqnHBH/dog-Banner.jpg)
 
 Computer science student at the University of Galway
 
